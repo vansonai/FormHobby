@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    margin: auto;
+    width: 860px;
+    height: auto;
+    background-color: aqua;
+}
+
+
+.thong_tin {
+    margin-bottom: 30px;
+    color: blue;
+}
+
+.box {
+    width: 300px;
+    height: 30px;
+    margin-left: 10px;
+    box-shadow: 2px 2px;
+}
+
+button {
+    width: 120px;
+    height: 30px;
+    margin-top: 30px ;
+    background-color: #e1e1e1;
+}
+
+.so_thich {
+    width: 800px;
+    height: 60px;
+    background-color: orangered;
+    text-align: center;
+    color: white;
+    margin-bottom: 30px;
+    line-height: 60px;
+}
+form {
+    margin-top: 60px;
+    background-color: #eeeeee;
+    width: 800px;
+    padding: 50px;
+}
+.hobby {
+    margin-left: 90px;
+    color: orangered;
+}
+.thong_tin11 {
+    margin-left: 30px;
+    width: 200px;
+    height: 20px;
+}
+.thong_tin12 {
+    margin-left: 53px;
+    height: 20px;
+}
